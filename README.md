@@ -1,8 +1,4 @@
 
-Built by https://www.blackbox.ai
-
----
-
 # Financial Charts
 
 ## Project Overview
